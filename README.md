@@ -2,8 +2,7 @@
 
 
 # Recommended systems
-Debian 8/9/10 x64
-Ubuntu 18/19/20 x64
+Debian 8/9/10 & Ubuntu 18/19/20 x64
 
 # Description
 This "patcher" let you download the latest TeaSpeak server and TeaSpeak MusicBot install script version.

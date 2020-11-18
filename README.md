@@ -4,6 +4,4 @@
 
 This script let you Install TeaSpeak server and TeaSpeak MusicBot
 Builds:
--nighly
--optimized
--stable
+Nighly, optimized & stable

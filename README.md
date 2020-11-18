@@ -1,6 +1,5 @@
-# TeaSpeak Server & MusicBot Install script
+# TeaSpeak Patcher
 # Patcher v1.0
-# Script v1.6
 
-This script let you Install TeaSpeak server and TeaSpeak MusicBot
+This "patcher" let you download the latest TeaSpeak server and TeaSpeak MusicBot install script version.
 (Nighly, optimized & stable versions)

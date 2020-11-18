@@ -1,6 +1,3 @@
-# yamanoscripts
-# scripts collection
-
 # TeaSpeak Server & MusicBot Install script
 # Patcher v1.0
 # Script v1.6

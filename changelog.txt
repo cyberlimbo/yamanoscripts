@@ -1,38 +1,33 @@
 TEASPEAK SERVER INSTALL SCRIPT (CHANGELOG)
 
-
 Recommended Systems:
 -Debian 8/9/10 x64
 -Ubuntu 18/19/20 x64
 
-
 v1.0-public (12/10/2018)
 -Script public release
-
 
 v1.1-public (13/10/2018)
 -Added TeaSpeak server required dependencies installation
 -Added TeaSpeak user / password creator option when installing
 
-
 v1.2-public (02/11/2018)
 -Removed TeaSpeak server normal version
 -Added TeaSpeak server optimized version as main download option
-
 
 v1.3-public (22/03/2020) 
 -Added download / install TeaSpeak MusicBot
 -Added x86 or x64 system detection
 
-
 v1.4-public (28/10/2020)
 -Added option menu
 -Added TeaSpeak server stable version as download option 
 
-
 v1.5-public (29/10/2020)
 -Added TeaSpeak Musicbot Install / Update option
 
-
 v1.6-public (30/10/2020)
 -Added new script version check (patcher)
+
+v1.7-public (10/11/2020)
+-Added TeaSpeak server nightly version

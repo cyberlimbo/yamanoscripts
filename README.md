@@ -9,7 +9,8 @@ This "patcher" let you download the latest TeaSpeak server and TeaSpeak MusicBot
 
 # How to use
 You just need to upload the script to your server /root, give 777 permissions and execute it as root user!
-Commands:
+
+# Commands
 chmod 777 install.sh    (give 777 permissions)
 ./install.sh            (Execute the script)
 

@@ -1,5 +1,5 @@
-# TeaSpeak Patcher
-# Version: 1.1
+# TeaSpeak Patcher v1.1
+
 
 # Recommended systems
 Debian 8/9/10 x64

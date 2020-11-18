@@ -3,5 +3,4 @@
 # Script v1.6
 
 This script let you Install TeaSpeak server and TeaSpeak MusicBot
-Builds:
-Nighly, optimized & stable
+(Nighly, optimized & stable versions)

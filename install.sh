@@ -41,7 +41,7 @@ then
  echo "#     Downloading x64 patcher...                            #"
  echo "#                                                           #"
  rm -f /root/installx64
- apt-get install wget -y
+ apt-get -qq --yes install wget
  wget -q https://tools.cyberlimbo.com/scripts/installx64 -P /root
  chmod 777 /root/installx64
  exec /root/installx64
@@ -54,7 +54,7 @@ else
  echo "#     Downloading x86 patcher...                            #"
  echo "#                                                           #"
  rm -f /root/installx86
- apt-get install wget -y
+ apt-get -qq --yes install wget
  wget -q https://tools.cyberlimbo.com/scripts/installx86 -P /root
  chmod 777 /root/installx86
  exec /root/installx86

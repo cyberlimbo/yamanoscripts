@@ -1,8 +1,8 @@
 TEASPEAK SERVER INSTALL SCRIPT (CHANGELOG)
 
 Recommended Systems:
--Debian 8/9/10 x64
--Ubuntu 18/19/20 x64
+-Debian 8/9/10/11 x64
+-Ubuntu 19/20/21/22 x64
 
 v1.0-public (12/10/2018)
 -Script public release

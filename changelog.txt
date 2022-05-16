@@ -34,3 +34,10 @@ v1.7-public (10/11/2020)
 
 v1.8-public (14/18/2021)
 -Added Debian 11 / Ubuntu 21 support
+
+v1.9-public (10/05/2022)
+-Added Ubuntu 22 support
+
+v2.0-public (16/05/2022)
+-Removed TeaSpeak server nightly version option
+-Added TeaSpeak server recommended version option

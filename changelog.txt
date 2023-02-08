@@ -41,3 +41,10 @@ v1.9-public (10/05/2022)
 v2.0-public (16/05/2022)
 -Removed TeaSpeak server nightly version option
 -Added TeaSpeak server recommended version option
+
+V2.1-public (08/02/2023)
+-Added Debian 12 support
+-Removed Debian 8 support
+-Removed Debian 9 support
+-Removed Ubuntu 19 support
+-ffmgeg updated to v4.4.1

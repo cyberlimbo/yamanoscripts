@@ -47,4 +47,3 @@ V2.1-public (08/02/2023)
 -Removed Debian 8 support
 -Removed Debian 9 support
 -Removed Ubuntu 19 support
--ffmgeg updated to v4.4.1

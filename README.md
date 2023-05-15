@@ -1,4 +1,4 @@
-# TeaSpeak Patcher v1.1
+# TeaSpeak Patcher v1.2
 
 
 # Recommended systems
